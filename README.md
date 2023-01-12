@@ -100,7 +100,8 @@
   <img src="https://komarev.com/ghpvc/?username=manaf-abdul&&style=flat-square" align="center" />
 </div>   -->
 
-### Badges
+<!-- ### 
+Badges -->
 
 <b>My GitHub Stats</b>
 
