@@ -3,9 +3,9 @@
 ### I'm Manaf, self-taught MERN stack developer 👨‍💻 🕵️ 
   
 
-- 🔭 I’m currently working on reactjs  
+- 🔭 I’m currently working on Solidity, Typescript, NextJS & NestJS
 
-- 🌱 I’m currently learning TypeScript  
+- 🌱 I’m currently learning Rust  
   
 
 <br/>  
