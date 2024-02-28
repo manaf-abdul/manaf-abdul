@@ -1,6 +1,6 @@
 
 
-### I'm Manaf, self-taught MERN stack developer 👨‍💻 🕵️ 
+### I'm Manaf, self-taught Full stack Web3 developer 👨‍💻 🕵️ 
   
 
 - 🔭 I’m currently working on Solidity, Typescript, NextJS & NestJS
